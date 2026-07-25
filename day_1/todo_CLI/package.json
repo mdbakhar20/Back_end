@@ -1,0 +1,25 @@
+{
+  "name": "back_end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbakhar20/Back_end.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mdbakhar20/Back_end/issues"
+  },
+  "homepage": "https://github.com/mdbakhar20/Back_end#readme",
+  "dependencies": {
+    "commander": "^15.0.0",
+    "express": "^5.2.1"
+  }
+}
