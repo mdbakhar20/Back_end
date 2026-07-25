@@ -1,0 +1,5 @@
+Hello india
+iam practicing note.js everyday
+iam practicing backend  
+making a CLI to count line , words and letters
+using commander
